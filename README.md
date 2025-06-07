@@ -13,6 +13,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=marswalkerr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @marswalkerr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marswalkerr)](https://holopin.io/@marswalkerr)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
